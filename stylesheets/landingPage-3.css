@@ -1,0 +1,26 @@
+.blue-text{
+    color: #4179F2;
+}
+.bg-blue{
+    background-color: #002C8A !important;
+}
+.bg-white{
+    background: #F9FBFF;
+}
+.text-purple-dark{
+    color: #100F22;
+}
+.white-arrow{
+    color: #FFFFFF;
+}
+span{
+    background: #100F22 !important;
+}
+button{
+    border: none;
+}
+body{
+    background-image: url(../assets/orbit.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

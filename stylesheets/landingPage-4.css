@@ -1,0 +1,23 @@
+.main-content{
+    background-position-x: 80% !important;
+    display: flex;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+    margin-left: 3%;
+}
+.main-content-header {
+    height: 223px;
+    width: 906px !important;
+  }  
+.content-header-main {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 74px;
+    text-align: left !important;
+  }
+  .main-content-description {
+    height: 48px;
+    width: 595.2232055664062px;
+    text-align: left !important;
+  
+  }

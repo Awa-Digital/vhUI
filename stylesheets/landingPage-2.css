@@ -1,0 +1,13 @@
+.bg-purple{    
+background: #6236FF;
+}
+.purple-text{
+    color:#AC95FF;
+    
+
+}
+body{
+    background-image: url(../assets/ldpg-2-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
