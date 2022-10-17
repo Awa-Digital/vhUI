@@ -100,7 +100,7 @@ button {
 .header-logo-blue {
   background-image: url(../assets/logo-blue.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 21.744253158569336px;
   width: 126.66666412353516px;
 }
@@ -110,7 +110,7 @@ button {
 .header-logo {
   background-image: url(../assets/logo.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 21.744253158569336px;
   width: 126.66666412353516px;
 }
@@ -187,7 +187,7 @@ li {
 .main-content-area {
   background-image: url(../assets/Bitmap-color-sphere.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   display: flex;
   flex-direction: column;
@@ -198,7 +198,7 @@ li {
 .main-content {
   background-image: url(../assets/Bitmap.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   display: flex;
   flex-direction: column;
@@ -287,7 +287,7 @@ span {
 .astroboy-image {
   background-image: url(../assets/astroboy.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   width: 596.41px;
   height: 592px;
 }
@@ -295,7 +295,7 @@ span {
   position: absolute;
   background-image: url(../assets/atsro-float.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 310.999995813575px;
   width: 30%;
   top: -5%;
@@ -317,7 +317,7 @@ span {
 .analytics-icon {
   background-image: url(../assets/analytics.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 50px;
   width: 50px;
   margin-bottom: 4%;
@@ -325,7 +325,7 @@ span {
 .streaming-icon {
   background-image: url(../assets/streaming.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 50px;
   width: 50px;
   margin-bottom: 4%;
@@ -333,7 +333,7 @@ span {
 .party-icon {
   background-image: url(../assets/party.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 50px;
   width: 50px;
   margin-bottom: 4%;
@@ -342,7 +342,7 @@ span {
   margin-bottom: 4%;
   background-image: url(../assets/cart.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 50px;
   width: 50px;
 }
@@ -386,14 +386,14 @@ span {
 .companies-img {
   background-image: url(../assets/companies.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 56px;
   width: 1150px;
 }
 .space-gradient {
   background-image: url(../assets/space-gradient.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 342px;
   width: 1150px;
   display: flex;
@@ -430,7 +430,7 @@ span {
 .social-media-icons {
   background-image: url(../assets/social-media-icons.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 18px;
   width: 152px;
   left: 327px;
@@ -451,7 +451,7 @@ span {
 .footer-logo {
   background-image: url(../assets/logo-blue.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 20px;
   width: 126.66666412353516px;
 }
