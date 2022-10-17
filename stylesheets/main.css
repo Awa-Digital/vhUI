@@ -161,6 +161,28 @@ li {
   background: none;
   border: none;
 }
+.mouse-icon-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10% 0;
+}
+.mouse-circle {
+  position: relative;
+  padding: 0;
+  border-radius: 70%;
+  width: 60px;
+  height: 60px;
+  background: #ffffff;
+  border: 1px solid rgba(18, 13, 35, 0.1);
+}
+.mouse-icon {
+  position: relative;
+  top: 25%;
+  left: 29%;
+  font-size: 24px;
+}
 /* Main content area styling */
 .main-content-area {
   background-image: url(../assets/Bitmap-color-sphere.png);
@@ -480,3 +502,5 @@ input::placeholder {
   );
   border-radius: 6px;
 }
+
+

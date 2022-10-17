@@ -1,0 +1,30 @@
+.teams-top-section{
+    position: relative;
+    margin-top: 8%;
+}
+.teams-top-section-lhs-container{
+    position: relative;
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 30px;
+}
+.top-section-rhs-bg {
+  background-image: url(../assets/team-header-img.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 614px;
+  width: 492px;
+  z-index: 5;
+}
+.gradient-vertical-rect {
+  background-image: url(../assets/team-vertical-rect.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: -12%;
+  right: 0.5%;
+  height: 551px;
+  width: 398px;
+}
