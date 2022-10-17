@@ -13,7 +13,7 @@
 .top-section-rhs-bg {
   background-image: url(../assets/team-header-img.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 614px;
   width: 492px;
   z-index: 5;
@@ -21,7 +21,7 @@
 .gradient-vertical-rect {
   background-image: url(../assets/team-vertical-rect.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: absolute;
   top: -12%;
   right: 0.5%;
