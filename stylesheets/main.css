@@ -78,6 +78,11 @@ body {
 a {
   text-decoration: none;
 }
+.white-btn{
+  background: #ffffff;
+  padding: 10px 5px;
+border-radius: 10px;
+}
 button {
   border: none;
   margin: 0;
